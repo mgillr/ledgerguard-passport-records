@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "hash": "sha256:95b41deee06b62395c645977d849bb894d72764a34d2373dd04877d909a9c9a3",
+  "createdAt": "2025-09-20T19:44:13.268Z",
+  "issuer": {
+    "name": "DPaaS Service",
+    "domain": "dpaaservice.com"
+  },
+  "subject": {
+    "mime": "image/png",
+    "fileName": "Screenshot 2025-09-18 at 01.48.03.png",
+    "size": 494354
+  },
+  "assertions": {
+    "aiGenerated": false
+  },
+  "signature": {
+    "alg": "ES256",
+    "jwkThumbprint": "mock-thumbprint",
+    "jws": "mock.signature.data"
+  },
+  "metadata": {
+    "creator": {
+      "name": "Test Man",
+      "email": "rgillespie83@icloud.com"
+    },
+    "title": "Image Banner",
+    "mime": "image/png",
+    "aiGenerated": false,
+    "aiModel": "",
+    "hash": "sha256:95b41deee06b62395c645977d849bb894d72764a34d2373dd04877d909a9c9a3",
+    "fileName": "Screenshot 2025-09-18 at 01.48.03.png",
+    "size": 494354,
+    "content": {
+      "title": "Image Banner",
+      "category": "original"
+    },
+    "metadata": {
+      "creationDate": "2025-09-24",
+      "location": "Zurich"
+    }
+  }
+}
