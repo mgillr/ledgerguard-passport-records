@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "hash": "sha256:afd81a40d06e34ac8c5a4f99ae4ca05650b9a9e746d54ad39c8520439e874b79",
+  "createdAt": "2025-09-21T10:16:15.950Z",
+  "issuer": {
+    "name": "DPaaS Service",
+    "domain": "dpaaservice.com"
+  },
+  "subject": {
+    "mime": "image/jpeg",
+    "fileName": "59CEFD8E-53AF-4212-A01B-82F612AD80CD.jpeg",
+    "size": 62572
+  },
+  "assertions": {
+    "aiGenerated": true,
+    "tool": "GPT5"
+  },
+  "signature": {
+    "alg": "ES256",
+    "jwkThumbprint": "mock-thumbprint",
+    "jws": "mock.signature.data"
+  },
+  "metadata": {
+    "creator": {
+      "name": "Ryan Gillespie Test",
+      "email": "rgillespie83@icloud.com"
+    },
+    "title": "Meme image Man In Glasses",
+    "mime": "image/jpeg",
+    "aiGenerated": true,
+    "aiModel": "GPT5",
+    "hash": "sha256:afd81a40d06e34ac8c5a4f99ae4ca05650b9a9e746d54ad39c8520439e874b79",
+    "fileName": "59CEFD8E-53AF-4212-A01B-82F612AD80CD.jpeg",
+    "size": 62572,
+    "content": {
+      "title": "Meme image Man In Glasses",
+      "description": "A man in glasses meme - sophisticated gentleman",
+      "category": "original"
+    },
+    "ai": {
+      "model": "GPT5",
+      "riskLevel": "minimal"
+    },
+    "metadata": {
+      "creationDate": "2025-09-03",
+      "location": "Zurich",
+      "equipment": "GPT5",
+      "projectName": "Private"
+    }
+  }
+}
